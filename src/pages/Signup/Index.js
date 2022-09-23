@@ -5,3 +5,5 @@ const Signup = () => {
 };
 
 export default Signup;
+
+//Página de inscrição.
