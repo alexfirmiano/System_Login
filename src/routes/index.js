@@ -1,8 +1,8 @@
 import { Fragment } from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Home from "../pages/Home/Index";
-import Signin from "../pages/Signin/Index";
-import Signup from "../pages/Signup/Index";
+import Home from "../pages/Home/index";
+import Signin from "../pages/Signin/index";
+import Signup from "../pages/Signup/index";
 import useAuth from "../hooks/useAuth";
 
 const Private = ({ Item }) => {
